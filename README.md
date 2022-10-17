@@ -1,4 +1,5 @@
 # openTendance (Under Development)
+<img src="https://repository-images.githubusercontent.com/552883590/ff7f6f51-8838-4732-b239-835307a798ec"/>
 </br>
 openTendance is a project that is being developed by saaiqSAS as a part of SFYD - A team of four, including saaiqSAS. This project is aimed to provide a royalty-free, easy to use, light weight, non-tech friendly, universal attendance marking system for educational institutions, businesses and others who require such a system.
 </br>
