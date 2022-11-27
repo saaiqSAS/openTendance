@@ -12,14 +12,19 @@ openTendance is a project that is being developed by saaiqSAS as a part of SFYD 
 </br>
 
 ## Current System Requirements
- - Minimum <b>RAM:</b> 500mb
- - Minimum <b>Screen Resolution:</b> 1280 x 720
+ - Minimum <b>RAM:</b> 400mb
+ - Minimum <b>Screen Resolution:</b> 1024 x 768
 </br>
 
 ## Downloads
-### Windows
-> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance-Windows_vX.X.X_BETA/openTendance-Windows_v0.0.2_BETA.zip"> openTendance_v0.0.2_BETA </a>
+### Server
+> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance-Windows_vX.X.X_BETA/openTendance-Windows_v0.0.3_BETA.zip"> openTendance_v0.0.3_BETA-Windows </a>
 
-> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance-SourceCode_vX.X.X_BETA/openTendance.zip"> openTendance_v0.0.2_BETA-SourceCode </a>
+> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance-SourceCode_vX.X.X_BETA/openTendance-SourceCode_v0.0.3_BETA.zip"> openTendance_v0.0.3_BETA-SourceCode </a>
+
+### Clients
+> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance_TextClient_vX.X.X-Windows/openTendance_TextClient_v1.0.0-Windows.zip"> openTendance_TextClient_v1.0.0-Windows </a> : ( For debugging and testing purpose only )
+
+> <a href="https://github.com/saaiqSAS/openTendance/releases/download/openTendance_TextClient_vX.X.X-SourceCode/openTendance_textClient_v1.0.0-SourceCode.zip"> openTendance_textClient_v1.0.0-SourceCode </a> : ( For debugging and testing purpose only )
 
 
